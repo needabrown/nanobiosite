@@ -1,0 +1,434 @@
+[
+	{
+	"id": "https://link.springer.com/article/10.1186/s12645-023-00240-4",
+	"type": "article-journal",
+	"title": "A nano-cocktail of the PARP inhibitor talazoparib and CDK inhibitor dinaciclib for the treatment of triple negative breast cancer",
+	"container-title": "Cancer Nanotechnology",
+	"volume": "15",
+	"issue": "20",
+	"source": "Springer",
+	"abstract": "The addition of the cyclin dependent kinase inhibitor (CDKi) dinaciclib to Poly-(ADP-ribose) polymerase inhibitor (PARPi) therapy is a strategy to overcome resistance to PARPi in tumors that exhibit homologous recombination (HR) deficiencies as well as to expand PARPi therapy to tumors that do not exhibit HR deficiencies. However, combination therapy using pathway inhibitors has been plagued by an inability to administer doses sufficient to achieve clinical benefit due to synergistic toxicities. Here we sought to combine nanoformulations of the PARPi talazoparib, nTLZ, and the CDKi dinaciclib, nDCB, in a nano-cocktail to enhance therapeutic efficacy while maintaining lower doses. Pharmacokinetics of nDCB were assessed to ensure it is compatible with nTLZ. nDCB was combined with nTLZ to generate a nano-cocktail nDCB:nTLZ, which elicits greater cell death in vitro compared to the combination of the free drugs. MDA-MB-231-LUC-D3H2LN xenografts were utilized to assess therapeutic efficacy of the nano-cocktail in terms of tumor progression. Administration of the nano-cocktail significantly slowed tumor progression in the HR proficient animal model compared to administration of free talazoparib and free dinaciclib at the same doses. Histology of the liver, spleen, and kidneys revealed long-term treatment did not induce nanoparticle associated morphological changes. Complete blood count did not reveal any significant hematologic changes after treatment with either the free combination or nano-cocktail. The efficacy and toxicity data suggest that further dose escalation can be pursued in order to achieve a stronger response. These data suggest the administration of combination therapy through the nano-cocktail leads to a better response than the use of free compounds and is a promising strategy for implementing combination therapy in the clinic.",
+	"DOI": "10.1186/s12645-023-00240-4",
+	"author": [
+			{"family": "Baldwin", "given": "P."},
+			{"family": "Yang", "given": "S."},
+			{"family": "Orriols", "given": "A."},
+			{"family": "Wang", "given": "S."},
+			{"family": "<b>Brown</b>", "given": "N."},
+			{"family": "Sridhar", "given": "S."}
+		],
+	"issued": {"date-parts": [["2024", 2]]}
+	},
+
+
+
+	{
+	"id": "https://pubs.rsc.org/en/content/articlehtml/2024/nr/d3nr04777f",
+	"type": "article-journal",
+	"title": "AGuIX nanoparticle-nanobody bioconjugates to target immune checkpoint receptors",
+	"container-title": "Nanoscale",
+	"page": "2347-2360",
+	"volume": "16",
+	"source": "Royal Society of Chemistry",
+	"abstract": "This article presents bioconjugates combining nanoparticles (AGuIX) with nanobodies (VHH) targeting Programmed Death-Ligand 1 (PD-L1, A12 VHH) and Cluster of Differentiation 47 (CD47, A4 VHH) for active tumor targeting. AGuIX nanoparticles offer theranostic capabilities and an efficient biodistribution/pharmacokinetic profile (BD/PK), while VHH's reduced size (15 kDa) allows efficient tumor penetration. Site-selective sortagging and click chemistry were compared for bioconjugation. While both methods yielded bioconjugates with similar functionality, click chemistry demonstrated higher yield and could be used for the conjugation of various VHH. The specific targeting of AGuIX@VHH has been demonstrated in both in vitro and ex vivo settings, paving the way for combined targeted immunotherapies, radiotherapy, and cancer imaging.",
+	"DOI": "10.1039/D3NR04777F",
+	"author": [
+			{"family": "Carmés+", "given": "L."},
+			{"family": "Bort+", "given": "G."},
+			{"family": "Lux", "given": "F."},
+			{"family": "Seban", "given": "L."},
+			{"family": "Rocchi", "given": "P."},
+			{"family": "Muradova", "given": "Z."},
+			{"family": "Hagege", "given": "A."},
+			{"family": "Heinrich-Balard", "given": "L."},
+			{"family": "Delolme", "given": "F."},
+			{"family": "Gueguen-Chaignon", "given": "V."},
+			{"family": "Truillet", "given": "C."},
+			{"family": "Crowley", "given": "S."},
+			{"family": "Bello", "given": "E."},
+			{"family": "Tristan", "given": "D."},
+			{"family": "Dougan", "given": "M."},
+			{"family": "Schoenfeld", "given": "J."},
+			{"family": "<b>Brown</b>*", "given": "N."},
+			{"family": "Berbeco*", "given": "R."}
+			],
+	"issued": {"date-parts": [["2024", 2]]}
+	},
+
+
+
+	{
+	"id": "https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2023.1175617/full",
+	"type": "article-journal",
+	"title": "Sustained delivery of PARP inhibitor Talazoparib for the treatment of BRCA-deficient ovarian cancer",
+	"container-title": "Frontiers in Oncology",
+	"volume": "13",
+	"source": "Frontiers",
+	"abstract": "Ovarian cancer has long been known to be the deadliest cancer associated with the female reproductive system. More than 15% of ovarian cancer patients have a defective BRCA-mediated homologous recombination repair pathway that can be therapeutically targeted with PARP inhibitors (PARPi), such as Talazoparib (TLZ). The expansion of TLZ clinical approval beyond breast cancer has been hindered due to the highly potent systemic side effects resembling chemotherapeutics. Here we report the development of a novel TLZ-loaded PLGA implant (InCeT-TLZ) that sustainedly releases TLZ directly into the peritoneal (i.p.) cavity to treat patient-mimicking BRCA-mutated metastatic ovarian cancer (mOC). InCeT-TLZ was fabricated by dissolving TLZ and PLGA in chloroform, followed by extrusion and evaporation. Drug loading and release were confirmed by HPLC. The in vivo therapeutic efficacy of InCeT-TLZ was carried out in a murine Brca2-/-p53R172H/-Pten-/- genetically engineered peritoneally mOC model. Mice with tumors were divided into four groups: PBS i.p. injection, empty implant i.p. implantation, TLZ i.p. injection, and InCeT-TLZ i.p. implantation. Body weight was recorded three times weekly as an indicator of treatment tolerance and efficacy. Mice were sacrificed when the body weight increased by 50% of the initial weight. Biodegradable InCeT-TLZ administered intraperitoneally releases 66 μg of TLZ over 25 days. In vivo experimentation shows doubled survival in the InCeT-TLZ treated group compared to control, and no significant signs of toxicity were visible histologically in the surrounding peritoneal organs, indicating that the sustained and local delivery of TLZ greatly maximized therapeutic efficacy and minimized severe clinical side effects. The treated animals eventually developed resistance to PARPi therapy and were sacrificed. To explore treatments to overcome resistance, in vitro studies with TLZ sensitive and resistant ascites-derived murine cell lines were carried out and demonstrated that ATR inhibitor and PI3K inhibitor could be used in combination with the InCeT-TLZ to overcome acquired PARPi resistance. Compared to intraperitoneal PARPi injection, the InCeT-TLZ better inhibits tumor growth, delays the ascites formation, and prolongs the overall survival of treated mice, which could be a promising therapy option that benefits thousands of women diagnosed with ovarian cancer.",
+	"DOI": "10.3389/fonc.2023.1175617",
+	"author": [
+			{"family": "Yang", "given": "S."},
+			{"family": "Green", "given": "A."},
+			{"family": "<b>Brown</b>", "given": "N."},
+			{"family": "Robinson", "given": "A."},
+			{"family": "Senat", "given": "M."},
+			{"family": "Testino", "given": "B."},
+			{"family": "Dinulescu", "given": "B."},
+			{"family": "Sridhar", "given": "S."}
+			],
+	"issued": {"date-parts": [["2023", 2]]}
+	},
+
+
+
+	{
+	"id": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10526655/",
+	"type": "article-journal",
+	"title": "Tuning ultrasmall theranostic nanoparticles for MRI contrast and radiation dose amplification",
+	"container-title": "Theranostics",
+	"page": "4711-4729",
+	"volume": "13",
+	"issue": "14",
+	"source": "Ivyspring International Publisher",
+	"abstract": "The introduction of magnetic resonance (MR)-guided radiation treatment planning has opened a new space for theranostic nanoparticles to reduce acute toxicity while improving local control. In this work, second-generation AGuIX® nanoparticles (AGuIX-Bi) are synthesized and validated. AGuIX-Bi are shown to maintain MR positive contrast while further amplifying the radiation dose by the replacement of some Gd3+ cations with higher Z Bi3+. These next-generation nanoparticles are based on the AGuIX® platform, which is currently being evaluated in multiple Phase II clinical trials in combination with radiotherapy. In this clinically scalable methodology, AGuIX® is used as an initial chelation platform to exchange Gd3+ for Bi3+. AGuIX-Bi nanoparticles are synthesized with three ratios of Gd/Bi, each maintaining MR contrast while further amplifying radiation dose relative to Bi3+. Safety, efficacy, and theranostic potential of the nanoparticles were evaluated in vitro and in vivo in a human non-small cell lung cancer model. We demonstrated that increasing Bi3+ in the nanoparticles is associated with more DNA damage and improves in vivo efficacy with a statistically significant delay in tumor growth and 33% complete regression for the largest Bi/Gd ratio tested. The addition of Bi3+ by our synthetic method leads to nanoparticles that present slightly altered pharmacokinetics and lengthening of the period of high tumor accumulation with no observed evidence of toxicity. We confirmed the safety and enhanced efficacy of AGuIX-Bi with radiation therapy at the selected ratio of 30Gd/70Bi. These results provide crucial evidence towards patient translation.",
+	"DOI": "10.7150/thno.85663",
+	"author": [
+			{"family": "<b>Brown</b>+", "given": "N."},
+			{"family": "Rocchi+", "given": "P."},
+			{"family": "Carmes", "given": "L."},
+			{"family": "Guthier", "given": "R."},
+			{"family": "Iyer", "given": "M."},
+			{"family": "Seban", "given": "L."},
+			{"family": "Morris", "given": "T."},
+			{"family": "Bennett", "given": "S."},
+			{"family": "Lavelle", "given": "M."},
+			{"family": "Penailillo", "given": "J."},
+			{"family": "Carrasco", "given": "R."},
+			{"family": "Williams", "given": "C."},
+			{"family": "Huynh", "given": "E."},
+			{"family": "Han", "given": "Z."},
+			{"family": "Kaza", "given": "E."},
+			{"family": "Doussineau", "given": "T."},
+			{"family": "Toprani", "given": "S."},
+			{"family": "Qin", "given": "X."},
+			{"family": "Nagel", "given": "Z."},
+			{"family": "Sarosiek", "given": "K."},
+			{"family": "Hagege", "given": "A."},
+			{"family": "Dufort", "given": "S."},
+			{"family": "Bort", "given": "G."},
+			{"family": "Lux", "given": "F."},
+			{"family": "Tillement", "given": "O."},
+			{"family": "Berbeco", "given": "R."}
+			],
+	"issued": {"date-parts": [["2023", 2]]}
+	},
+
+
+
+	{
+	"id": "https://link.springer.com/article/10.1186/s11671-020-03459-x",
+	"type": "article-journal",
+	"title": "Targeted Single-Walled Carbon Nanotubes for Photothermal Therapy Combined with Immune Checkpoint Inhibition for the Treatment of Metastatic Breast Cancer",
+	"container-title": "Nanoscale Research Letters",
+	"volume": "16",
+	"issue": "9",
+	"source": "Springer",
+	"abstract": "The greatest contributors to cancer mortality are metastasis and the consequences of its treatment. Here, we present a novel treatment of metastatic breast cancer that combines photothermal therapy with targeted single-walled carbon nanotubes (SWCNTs) and immunostimulation with a checkpoint inhibitor. We find that the selective near-infrared photothermal ablation of primary orthotopic EMT6 breast tumors in syngeneic BALB/cJ mice using an annexin A5 (ANXA5) functionalized SWCNT bioconjugate synergistically enhances an anti-cytotoxic T-lymphocyte-associated protein 4 (anti-CTLA-4)-dependent abscopal response, resulting in an increased survival (55%) at 100 days after tumor inoculation. In comparison, there was no survival at 100 days for either photothermal therapy by itself or immunostimulation by itself. Prior to photothermal therapy, the SWCNT-ANXA5 bioconjugate was administered systemically at a relatively low dose of 1.2 mg/kg, where it then accumulated in tumor vasculature via ANXA5-dependent binding. During photothermal therapy, the average maximum temperature in the tumor reached 54 °C (duration 175 s). The mechanism of prolonged survival resulting from combinatorial photothermal ablation and immune stimulation was evaluated by flow cytometric quantification of splenic antitumoral immune effector cells and serum cytokine quantification.",
+	"DOI": "10.1186/s11671-020-03459-x",
+	"author": [
+			{"family": "McKernan", "given": "P."},
+			{"family": "<b>Virani</b>", "given": "N."},
+			{"family": "Faria", "given": "G."},
+			{"family": "Guthier", "given": "R."},
+			{"family": "Karch", "given": "C."},
+			{"family": "Silvy", "given": "R."},
+			{"family": "Resasco", "given": "D."},
+			{"family": "Thompson", "given": "L."},
+			{"family": "Harrison", "given": "R."}
+			],
+	"issued": {"date-parts": [["2021", 2]]}
+	},
+
+
+
+	{
+	"id": "https://www.sciencedirect.com/science/article/abs/pii/S0730725X2030638X",
+	"type": "article-journal",
+	"title": "In vivo hypoxia characterization using blood oxygen level dependent magnetic resonance imaging in a preclinical glioblastoma mouse model",
+	"container-title": "Magnetic Resonance Imaging",
+	"page": "52-60",
+	"volume": "76",
+	"source": "Elsevier",
+	"abstract": "Hypoxia measurements can provide crucial information regarding tumor aggressiveness, however current preclinical approaches are limited. Blood oxygen level dependent (BOLD) Magnetic Resonance Imaging (MRI) has the potential to continuously monitor tumor pathophysiology (including hypoxia). The aim of this preliminary work was to develop and evaluate BOLD MRI followed by post-image analysis to identify regions of hypoxia in a murine glioblastoma (GBM) model. A murine orthotopic GBM model (GL261-luc2) was used and independent images were generated from multiple slices in four different mice. Image slices were randomized and split into training and validation cohorts. A 7 T MRI was used to acquire anatomical images using a fast-spin-echo (FSE) T2-weighted sequence. BOLD images were taken with a T2*-weighted gradient echo (GRE) and an oxygen challenge. Thirteen images were evaluated in a training cohort to develop the MRI sequence and optimize post-image analysis. An in-house MATLAB code was used to evaluate MR images and generate hypoxia maps for a range of thresholding and ΔT2* values, which were compared against respective pimonidazole sections to optimize image processing parameters. The remaining (n = 6) images were used as a validation group. Following imaging, mice were injected with pimonidazole and collected for immunohistochemistry (IHC). A test of correlation (Pearson's coefficient) and agreement (Bland-Altman plot) were conducted to evaluate the respective MRI slices and pimonidazole IHC sections. For the training cohort, the optimized parameters of “thresholding” (20 ≤ T2* ≤ 35 ms) and ΔT2* (±4 ms) yielded a Pearson's correlation of 0.697. These parameters were applied to the validation cohort confirming a strong Pearson's correlation (0.749) when comparing the respective analyzed MR and pimonidazole images. Our preliminary study supports the hypothesis that BOLD MRI is correlated with pimonidazole measurements of hypoxia in an orthotopic GBM mouse model. This technique has further potential to monitor hypoxia during tumor development and therapy.",
+	"DOI": "10.1016/j.mri.2020.11.003",
+	"author": [
+			{"family": "<b>Virani</b>", "given": "N."},
+			{"family": "Kwon", "given": "J."},
+			{"family": "Zhou", "given": "H."},
+			{"family": "Mason", "given": "R."},
+			{"family": "Berbeco", "given": "R."},
+			{"family": "Protti", "given": "A."}
+			],
+	"issued": {"date-parts": [["2021", 2]]}
+	},
+
+
+
+	{
+	"id": "https://iopscience.iop.org/article/10.1088/1361-6560/ab9159/meta",
+	"type": "article-journal",
+	"title": "Roadmap for metal nanoparticles in radiation therapy: current status, translational challenges, and future directions",
+	"container-title": "Physics in Medicine and Biology",
+	"volume": "20",
+	"source": "IPO Science",
+	"abstract": "This roadmap outlines the potential roles of metallic nanoparticles (MNPs) in the field of radiation therapy. MNPs made up of a wide range of materials (from Titanium, Z = 22, to Bismuth, Z = 83) and a similarly wide spectrum of potential clinical applications, including diagnostic, therapeutic (radiation dose enhancers, hyperthermia inducers, drug delivery vehicles, vaccine adjuvants, photosensitizers, enhancers of immunotherapy) and theranostic (combining both diagnostic and therapeutic), are being fabricated and evaluated. This roadmap covers contributions from experts in these topics summarizing their view of the current status and challenges, as well as expected advancements in technology to address these challenges.",
+	"DOI": "10.1088/1361-6560/ab9159",
+	"author": [
+			{"family": "Schuemann", "given": "J."},
+			{"family": "Bagley", "given": "A."},
+			{"family": "Berbeco", "given": "R."},
+			{"family": "Bromma", "given": "K."},
+			{"family": "Butterworth", "given": "K."},
+			{"family": "Byrne", "given": "H."},
+			{"family": "Chithran", "given": "D."},
+			{"family": "Cho", "given": "S."},
+			{"family": "Cook", "given": "J."},
+			{"family": "Favaudon", "given": "V."},
+			{"family": "Gholami", "given": "Y."},
+			{"family": "Gargioni", "given": "E."},
+			{"family": "Hainfeld", "given": "J."},
+			{"family": "Hespeels", "given": "F."},
+			{"family": "Heukin", "given": "A."},
+			{"family": "Ibeh", "given": "U."},
+			{"family": "Kuncic", "given": "Z."},
+			{"family": "Kunjachan", "given": "S."},
+			{"family": "Lacombe", "given": "S."},
+			{"family": "Lucas", "given": "S."},
+			{"family": "Lux", "given": "F."},
+			{"family": "McMahon", "given": "S."},
+			{"family": "Nevozhay", "given": "D."},
+			{"family": "Ngwa", "given": "W."},
+			{"family": "Payne", "given": "J."},
+			{"family": "Penninckx", "given": "S."},
+			{"family": "Poecel", "given": "E."},
+			{"family": "Prise", "given": "K."},
+			{"family": "Rabus", "given": "H."},
+			{"family": "Ridwan", "given": "S."},
+			{"family": "Rudek", "given": "B."},
+			{"family": "Sanche", "given": "L."},
+			{"family": "Singh", "given": "B."},
+			{"family": "Smilowitz", "given": "H."},
+			{"family": "Sokolov", "given": "K."},
+			{"family": "Sridhar", "given": "S."},
+			{"family": "Stanishevskiy", "given": "Y."},
+			{"family": "Sung", "given": "W."},
+			{"family": "Tillement", "given": "O."},
+			{"family": "<b>Virani</b>", "given": "N."},
+			{"family": "Yantasee", "given": "W."},
+			{"family": "Krishnan", "given": "S."}
+			],
+	"issued": {"date-parts": [["2020", 2]]}
+	},
+
+
+
+	{
+	"id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0236245",
+	"type": "article-journal",
+	"title": "Noninvasive imaging of tumor hypoxia after nanoparticle-mediated tumor vascular disruption",
+	"container-title": "PLOS One",
+	"page": "e0236245",
+	"volume": "15",
+	"issue": "7",
+	"source": "Public Library of Science",
+	"abstract": "We have previously demonstrated that endothelial targeting of gold nanoparticles followed by external beam irradiation can cause specific tumor vascular disruption in mouse models of cancer. The induced vascular damage may lead to changes in tumor physiology, including tumor hypoxia, thereby compromising future therapeutic interventions. In this study, we investigate the dynamic changes in tumor hypoxia mediated by targeted gold nanoparticles and clinical radiation therapy (RT). By using noninvasive whole-body fluorescence imaging, tumor hypoxia was measured at baseline, on day 2 and day 13, post-tumor vascular disruption. A 2.5-fold increase (P<0.05) in tumor hypoxia was measured two days after combined therapy, resolving by day 13. In addition, the combination of vascular-targeted gold nanoparticles and radiation therapy resulted in a significant (P<0.05) suppression of tumor growth. This is the first study to demonstrate the tumor hypoxic physiological response and recovery after delivery of vascular-targeted gold nanoparticles followed by clinical radiation therapy in a human non-small cell lung cancer athymic Foxn1nu mouse model.",
+	"DOI": "10.1371/journal.pone.0236245",
+	"author": [
+			{"family": "<b>Virani</b>", "given": "N."},
+			{"family": "Kelada", "given": "O."},
+			{"family": "Kunjachan", "given": "S."},
+			{"family": "Detappe", "given": "A."},
+			{"family": "Kwon", "given": "J."},
+			{"family": "Hayashi", "given": "J."},
+			{"family": "Vazquez-Pagan", "given": "A."},
+			{"family": "Biancur", "given": "D."},
+			{"family": "Ireland", "given": "T."},
+			{"family": "Kumar", "given": "R."},
+			{"family": "Sridhar", "given": "S."},
+			{"family": "Makrigiorgos", "given": "G."},
+			{"family": "Berbeco", "given": "R."}
+			],
+	"issued": {"date-parts": [["2020", 2]]}
+	},
+
+
+
+	{
+	"id": "https://books.google.com/books?hl=en&lr=&id=k8i2DwAAQBAJ&oi=fnd&pg=PA325&dq=info:So5y7LmPPa8J:scholar.google.com&ots=Kvc1npzQ5g&sig=FHtlE-T5feyq_kosgAzqjCl7lkI#v=onepage&q&f=false",
+	"type": "article-journal",
+	"title": "Photothermal therapy using carbon nanotibes for treating cancer",
+	"container-title": "Thermal Behaviour and Applications of Carbon-Based Nanomaterials: Theory, Methods and Applications",
+	"page": "325-344",
+	"source": "Elsevier",
+	"abstract": "Carbon nanotubes (CNTs) were first discovered by Sumio Iijima in 1991 and gained extensive attention due to their robust nature, large surface area, ability to be functionalized, and stability. 1 Nanotubes have been an exciting new vehicle in cancer therapy due to their versatility as drug carries as well as their unique interactions with different wavelengths of lights to generate heat and reactive oxygen species. 1, 2 Carbon nanotubes can be classified into two large categories, single-walled (SWCNTs) and multiwalled (MWCNTs) carbon nanotubes. SWCNTs are characterized by a single graphene sheet rolled into a cylinder, while MWCNTs are multiple graphene sheets rolled into concentric cylinders. SWCNTs have diameters ranging from 0.4 to 2 nm, while MWCNTs have diameters from 1 to 100 nm with wall thicknesses of 0.2 e2 nm. Nanotubes can be further distinguished based on their chirality into zigzag, armchair, and chiral. This chirality determines whether a tube is semiconductive or metallic. This review focuses on the utility of carbon nanotubes for cancer therapy due to their ability to interact with near-infrared light to generate a photothermal effect which can be further enhanced with coadministration of secondary agents. Nanotubes can also be used to focus cancer therapy to the tumor site, limiting any nonspecific damage. This review will further elaborate on the potential to target nanotubes along with a compilation of the extensive toxicities studies conducted in preclinical models evaluating the safety of the nanotechnology agent.",
+	"author": [
+			{"family": "<b>Virani</b>", "given": "N."},
+			{"family": "McKernan", "given": "P."},
+			{"family": "Harrison", "given": "R."}
+			],
+	"issued": {"date-parts": [["2020", 2]]}
+	},
+
+
+
+	{
+	"id": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6930329/",
+	"type": "article-journal",
+	"title": "Use of 3D contrast-enhanced ultrasound to evaluate tumor microvasculature after nanoparticle-mediated modulation",
+	"container-title": "Ultrasound in Medicine and Biology",
+	"page": "369-376",
+	"volume": "46",
+	"issue": "2",
+	"source": "NCBI",
+	"abstract": "A cost-effective method for serial in vivo imaging of tumor microvasculature has been developed. We evaluated acoustic angiography (AA) for visualizing and assessing non-small cell lung tumor (A549) microvasculature in mice prior to and following tumor vascular disruption by vascular-targeted gold nanoparticles (GNPs) and radiotherapy. Standard B-mode and microbubble-enhanced AA images were acquired at pre- and post-treatment time points. Using these modes, a new metric, 50% Vessel Penetration Depth (VPD50) was developed to characterize the 3D spatial heterogeneity of microvascular networks. We observed an increase in tumor perfusion after radiation-induced vascular disruption, relative to control animals. This was also visualized in vessel morphology mode, which showed a loss in vessel integrity. We found that tumors with poorly perfused vasculature at day 0 exhibited a reduced growth rate over time. This suggested a new method for reducing in-group treatment response variability by using pre-treatment microvessel maps to objectively identify animals for study removal.",
+	"DOI": "10.1016/j.ultrasmedbio.2019.09.019",
+	"author": [
+			{"family": "Kwon", "given": "J."},
+			{"family": "Rajamahendiran", "given": "R."},
+			{"family": "<b>Virani</b>", "given": "N."},
+			{"family": "Kunjachan", "given": "S."},
+			{"family": "Snay", "given": "E."},
+			{"family": "Harlacher", "given": "M."},
+			{"family": "Myronakis", "given": "M."},
+			{"family": "Shimizu", "given": "S."},
+			{"family": "Shirato", "given": "H."},
+			{"family": "Czernuszewicz", "given": "T."},
+			{"family": "Gessner", "given": "R."},
+			{"family": "Berbeco", "given": "R."}
+			],
+	"issued": {"date-parts": [["2020", 2]]}
+	},
+
+
+
+	{
+	"id": "https://iopscience.iop.org/article/10.1088/2057-1976/ab4d9b/meta",
+	"type": "article-journal",
+	"title": "Enhanced computed tomography imaging of breast cancer via phosphatidylserine targeted gold nanoparticles",
+	"container-title": "Biomedical Physics and Engineering Express",
+	"page": "065019",
+	"volume": "5",
+	"issue": "6",
+	"source": "IOP Publishing",
+	"abstract": "Breast cancer has one of the highest mortality rates usually due to metastatic development. Mammograms are the current standard of diagnosis; however due to the low sensitivity and high rate of misdiagnosis, patients either experience false positives or negatives leading to overdiagnosis and overtreatment. One of key disadvantages of mammograms is their failed ability to differentiate between a dense breast and a tumor, usually leading to more mammograms and more expensive diagnostic tools. In order to provide a widely available imaging tool, targeted gold nanoparticles have been developed. Gold nanoparticles have been designed with annexin V surface modification to specifically bind phosphatidylserine expressing tumor cells and tumor vasculature. In vitro and in vivo studies showed a significant increase in contrast with targeted nanoparticles. Tumors as small as 4 mm were detectable 4 h post-injection, providing evidence of a promising, sensitive tool for early breast cancer diagnosis.",
+	"DOI": "10.1088/2057-1976/ab4d9b",
+	"author": [
+			{"family": "<b>Virani</b>", "given": "N."},
+			{"family": "Hendrick", "given": "A."},
+			{"family": "Wu", "given": "D."},
+			{"family": "Southard", "given": "S."},
+			{"family": "Babb", "given": "J."},
+			{"family": "Liu", "given": "H."},
+			{"family": "Awasthi", "given": "V."},
+			{"family": "Harrison", "given": "R."}
+			],
+	"issued": {"date-parts": [["2019", 2]]}
+	},
+
+
+
+	{
+	"id": "https://www.sciencedirect.com/science/article/abs/pii/S0304383518302246",
+	"type": "article-journal",
+	"title": "Anti-CD73 and anti-OX40 immunotherapy coupled with a novel biocompatible enzyme prodrug system for the treatment of recurrent, metastatic ovarian cancer",
+	"container-title": "Cancer Letters",
+	"page": "174-182",
+	"volume": "425",
+	"source": "Elsevier",
+	"abstract": "Breast cancer has one of the highest mortality rates usually due to metastatic development. Mammograms are the current standard of diagnosis; however due to the low sensitivity and high rate of misdiagnosis, patients either experience false positives or negatives leading to overdiagnosis and overtreatment. One of key disadvantages of mammograms is their failed ability to differentiate between a dense breast and a tumor, usually leading to more mammograms and more expensive diagnostic tools. In order to provide a widely available imaging tool, targeted gold nanoparticles have been developed. Gold nanoparticles have been designed with annexin V surface modification to specifically bind phosphatidylserine expressing tumor cells and tumor vasculature. In vitro and in vivo studies showed a significant increase in contrast with targeted nanoparticles. Tumors as small as 4 mm were detectable 4 h post-injection, providing evidence of a promising, sensitive tool for early breast cancer diagnosis.",
+	"DOI": "10.1016/j.canlet.2018.03.027",
+	"author": [
+			{"family": "<b>Virani</b>", "given": "N."},
+			{"family": "Thavathiru", "given": "E."},
+			{"family": "McKernan", "given": "P."},
+			{"family": "Moore", "given": "D."},
+			{"family": "Harrison", "given": "R."}
+			],
+	"issued": {"date-parts": [["2018", 2]]}
+	},
+
+
+
+	{
+	"id": "https://iopscience.iop.org/article/10.1088/1361-6528/aa9c0c/meta",
+	"type": "article-journal",
+	"title": "Phosphatidylserine targeted single-walled carbon nanotubes for photothermal ablation of bladder cancer",
+	"container-title": "Nanotechnology",
+	"page": "035101",
+	"volume": "29",
+	"issue": "3",
+	"source": "IOP Publishing",
+	"abstract": "Bladder cancer has a 60%–70% recurrence rate most likely due to any residual tumour left behind after a transurethral resection (TUR). Failure to completely resect the cancer can lead to recurrence and progression into higher grade tumours with metastatic potential. We present here a novel therapy to treat superficial tumours with the potential to decrease recurrence. The therapy is a heat-based approach in which bladder tumour specific single-walled carbon nanotubes (SWCNTs) are delivered intravesically at a very low dose (0.1 mg SWCNT per kg body weight) followed 24 h later by a short 30 s treatment with a 360° near-infrared light that heats only the bound nanotubes. The energy density of the treatment was 50 J cm−2, and the power density that this treatment corresponds to is 1.7 W cm−2, which is relatively low. Nanotubes are specifically targeted to the tumour via the interaction of annexin V (AV) and phosphatidylserine, which is normally internalised on healthy tissue but externalised on tumours and the tumour vasculature. SWCNTs are conjugated to AV, which binds specifically to bladder cancer cells as confirmed in vitro and in vivo. Due to this specific localisation, NIR light can be used to heat the tumour while conserving the healthy bladder wall. In a short-term efficacy study in mice with orthotopic MB49 murine bladder tumours treated with the SWCNT-AV conjugate and NIR light, no tumours were visible on the bladder wall 24 h after NIR light treatment, and there was no damage to the bladder. In a separate survival study in mice with the same type of orthotopic tumours, there was a 50% cure rate at 116 days when the study was ended. At 116 days, no treatment toxicity was observed, and no nanotubes were detected in the clearance organs or bladder.",
+	"DOI": "10.1088/1361-6528/aa9c0c",
+	"author": [
+			{"family": "<b>Virani</b>", "given": "N."},
+			{"family": "Davis", "given": "C."},
+			{"family": "McKernan", "given": "P."},
+			{"family": "Hauser", "given": "P."},
+			{"family": "Hurst", "given": "R."},
+			{"family": "Slaton", "given": "J."},
+			{"family": "Silvy", "given": "R."},
+			{"family": "Resasco", "given": "D."},
+			{"family": "Harrison", "given": "R."}
+			],
+	"issued": {"date-parts": [["2017", 2]]}
+	},
+
+
+
+	{
+	"id": "https://aacrjournals.org/mct/article/16/9/1855/148164/Antitumor-Synergism-and-Enhanced-Survival-with-a",
+	"type": "article-journal",
+	"title": "Antitumor synergism and enhanced survival with a tumor vasculature–targeted enzyme prodrug system, rapamycin, and cyclophosphamide",
+	"container-title": "Molecular Cancer Therapeutics",
+	"page": "1855-1865",
+	"volume": "16",
+	"issue": "9",
+	"source": "American Association for Cancer Research",
+	"abstract": "Mutant cystathionine gamma-lyase was targeted to phosphatidylserine exposed on tumor vasculature through fusion with Annexin A1 or Annexin A5. Cystathionine gamma-lyase E58N, R118L, and E338N mutations impart nonnative methionine gamma-lyase activity, resulting in tumor-localized generation of highly toxic methylselenol upon systemic administration of nontoxic selenomethionine. The described therapeutic system circumvents systemic toxicity issues using a novel drug delivery/generation approach and avoids the administration of nonnative proteins and/or DNA required with other enzyme prodrug systems. The enzyme fusion exhibits strong and stable in vitro binding with dissociation constants in the nanomolar range for both human and mouse breast cancer cells and in a cell model of tumor vascular endothelium. Daily administration of the therapy suppressed growth of highly aggressive triple-negative murine 4T1 mammary tumors in immunocompetent BALB/cJ mice and MDA-MB-231 tumors in SCID mice. Treatment did not result in the occurrence of negative side effects or the elicitation of neutralizing antibodies. On the basis of the vasculature-targeted nature of the therapy, combinations with rapamycin and cyclophosphamide were evaluated. Rapamycin, an mTOR inhibitor, reduces the prosurvival signaling of cells in a hypoxic environment potentially exacerbated by a vasculature-targeted therapy. IHC revealed, unsurprisingly, a significant hypoxic response (increase in hypoxia-inducible factor 1 α subunit, HIF1A) in the enzyme prodrug–treated tumors and a dramatic reduction of HIF1A upon rapamycin treatment. Cyclophosphamide, an immunomodulator at low doses, was combined with the enzyme prodrug therapy and rapamycin; this combination synergistically reduced tumor volumes, inhibited metastatic progression, and enhanced survival.",
+	"DOI": "10.1158/1535-7163.MCT-16-0263",
+	"author": [
+			{"family": "Krais", "given": "J."},			
+			{"family": "<b>Virani</b>", "given": "N."},
+			{"family": "McKernan", "given": "P."},
+			{"family": "Nguyen", "given": "Q."},
+			{"family": "Fung", "given": "K."},
+			{"family": "Sikavitsas", "given": "S."},
+			{"family": "Kurkjian", "given": "C."},
+			{"family": "Harrison", "given": "R."}
+			],
+	"issued": {"date-parts": [["2017", 2]]}
+	},
+
+
+
+	{
+	"id": "https://academic.oup.com/peds/article/30/2/85/2703174",
+	"type": "article-journal",
+	"title": "Annexin-directed β-glucuronidase for the targeted treatment of solid tumors",
+	"container-title": "Protein Engineering, Design and Selection",
+	"page": "85-94",
+	"volume": "30",
+	"issue": "2",
+	"source": "Oxford University Press",
+	"abstract": "Enzyme prodrug therapy has the potential to remedy the lack of selectivity associated with the systemic administration of chemotherapy. However, most current systems are immunogenic and constrained to a monotherapeutic approach. We developed a new class of fusion proteins centered about the human enzyme β-glucuronidase (βG), capable of converting several innocuous prodrugs into chemotherapeutics. We targeted βG to phosphatidylserine on tumor cells, tumor vasculature and metastases via annexin A1/A5. Phosphatidylserine shows promise as a universal marker for solid tumors and allows for tumor type-independent targeting. To create fusion proteins, human annexin A1/A5 was genetically fused to the activity-enhancing 16a3 mutant of human βG, expressed in chemically defined, fed-batch suspension culture, and chromatographically purified. All fusion constructs achieved >95% purity with yields up to 740 μg/l. Fusion proteins displayed cancer selective cell-surface binding with cell line-dependent binding stability. One fusion protein in combination with the prodrug SN-38 glucuronide was as effective as the drug SN-38 on Panc-1 pancreatic cancer cells and HAAE-1 endothelial cells, and demonstrated efficacy against MCF-7 breast cancer cells. βG fusion proteins effectively enable localized combination therapy that can be tailored to each patient via prodrug selection, with promising clinical potential based on their near fully human design.",
+	"DOI": "10.1093/protein/gzw063",
+	"author": [
+			{"family": "Guillen", "given": "K."},
+			{"family": "Ruben", "given": "E."},			
+			{"family": "<b>Virani</b>", "given": "N."},
+			{"family": "Harrison", "given": "R."}
+			],
+	"issued": {"date-parts": [["2017", 2]]}
+	}
+]

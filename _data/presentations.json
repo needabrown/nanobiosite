@@ -1,0 +1,17 @@
+[
+	{
+	"id": "https://aiche.confex.com/aiche/2023/meetingapp.cgi/Paper/677807",
+	"type": "article-journal",
+	"title": "Formulation and Characterization of Sting Agonist Implants to Overcome Barriers to Delivery",
+	"container-title": "American Institute of Chemical Engineering (AIChE Annual Conference)",
+	"abstract": "Targeting of the stimulator of interferon genes (STING) pathway has emerged as a valuable combinatorial approach for patients with aggressive BRCA-mutated tumors such as ovarian and breast cancers. Combination of STING agonists with conventional clinical therapies such as poly-ADP-ribose polymerase (PARP) inhibitors have shown promise in pre-clinical settings, however translation to the clinic has been limited due to STING agonist drug delivery barriers. Clinical trials of STING agonists require multiple intratumoral injections to deliver a high dose while reducing associated systemic inflammatory responses; however, this delivery method limits treatment options and increases patient burden. We propose an alternative approach using a biodegradable poly (lactic-co-glycolic) acid (PLGA) implant loaded with ADU-S100, a STING agonist, to sustainably release the drug over 28 days and maintain continuous tumor dose. We have developed a solvent-based evaporation method to fabricate PLGA ADU-S100 implants. Characterization of drug loading and release was evaluated using high performance liquid chromatography (HPLC). To predict how the implants will degrade and release drug over time, a study was performed in phosphate-buffered saline (PBS) at 37°C and pH 7.4 to mimic in vivo conditions. Every seven days, buffer samples were collected, and the implants were transferred to fresh PBS. Initial HPLC analysis resulted in overlapping peaks due to similar retention times of free ADU-S100 and PLGA hydrolyzed products, necessitating HPLC optimization. Given that ADU-S100 has a greater affinity for the nonpolar stationary phase than the hydrolyzed products, the ratio of aqueous solvent in the mobile phase was modulated between 50% and 75%. Drug loaded implants were compared against negative control blank implants to validate separation. Increasing the aqueous solvent percentage increased the retention time of the ADU-S100 and resulted in improved separation from the PLGA hydrolyzed products. Formulation of STING agonist expands the clinical benefit of a cumbersome treatment to previously unattainable patient populations. Further characterization of the implant formulation will be conducted using the optimized HPLC method to assess drug release over time in in vitro and in vivo models of BRCA-deficient metastatic ovarian cancer. Given that STING agonist is also known to enhance combinatorial drug efficacy, studies evaluating ADU-S100 implants alongside PARP inhibitor implants will also be performed in patient-mimicking metastatic ovarian cancer to study the impact of sustained drug delivery on tumor progression.",
+	"author": [
+			{"family": "Treese", "given": "J."},
+			{"family": "Yang", "given": "S."},
+			{"family": "Jurczyszak", "given": "J."},
+			{"family": "Sridhar", "given": "S."},
+			{"family": "<b>Brown</b>", "given": "N."}
+		],
+	"issued": {"date-parts": [["2023", 2]]}
+	}
+]
