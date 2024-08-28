@@ -31,7 +31,7 @@ The NanoBio Lab in collaboration with the Sridhar lab was just awarded a MLSC Wo
 
 Congratulations Shicheng Yang for receiving the Lux. Veritas. Virtus award! The Lux. Veritas. Virtus. society, a prestigious honor that recognizes exceptional graduate students who exemplify the university’s mission, ideals, and values. ([Read more](https://coe.northeastern.edu/news/2024-lux-veritas-virtus-inductees/)
 
-![ShichengYang]({{ site.url }}{{ site.baseurl }}/images/team/ShichengYang.JPG){: style="height:100px"} <b>Shicheng Yang</b>
+![ShichengYang]({{ site.url }}{{ site.baseurl }}/images/team/ShichengYang.jpg){: style="height:100px"} <b>Shicheng Yang</b>
 
 &nbsp;  
 
@@ -42,7 +42,7 @@ Check out our new publication in Cancer Nanotechnology on the formulation of a n
 
 Check out the [article](https://link.springer.com/article/10.1186/s12645-023-00240-4)!
 
-![CancerNanotechnology]({{ site.url }}{{ site.baseurl }}/images/news/CancerNanotechnology.JPG){: style="height:100px"}
+![CancerNanotechnology]({{ site.url }}{{ site.baseurl }}/images/news/CancerNanotechnology.jpg){: style="height:100px"}
 
 &nbsp;  
 
@@ -73,7 +73,7 @@ The NanoBio Lab undergraduate research assistants, Julia Treese & Jillian Jurczy
 <p>Julia Treese: Characterization of STING Agonist Implants for Combination Treatment of BRCA-Mutated Cancers ([Read more](https://coe.northeastern.edu/news/announcing-spring-2024-peak-experiences-awardees/))</p>
 <p>Jillian Jurczyszak: Drug Release Kinetics of Talazoparib in an Immunocompetent BRCA-Deficient Ovarian Cancer Model</p>
 
-![JuliaTreese]({{ site.url }}{{ site.baseurl }}/images/team/JuliaTreese.JPG){: style="height:100px"} <b>Julia Treese</b>
+![JuliaTreese]({{ site.url }}{{ site.baseurl }}/images/team/JuliaTreese.jpg){: style="height:100px"} <b>Julia Treese</b>
 ![JillianJurczyszak]({{ site.url }}{{ site.baseurl }}/images/team/JillianJurczyszak.jpg){: style="height:100px"}<b>Jillian Jurczyszak</b>
 
 &nbsp;  
@@ -84,7 +84,7 @@ The NanoBio Lab undergraduate research assistants, Julia Treese & Jillian Jurczy
 
 Rupsa Jana will be joining the NanoBio Lab as an AJC Research Merit Scholar this Spring 2024 for her second co-op. AJC Merit Research Scholarship which is given to 3% of the top STEM undergraduate researchers at Northeastern University who demonstrate exemplary potential for broad scope research impact within the scientific community as well as potential as strong ambassadors for their field of study. Rupsa's project will focus on "Lipid Nanoformulations for STING-agonist Delivery in Conjunction to PARPi Therapy for BRCA-deficient." [Read more](https://undergraduate.northeastern.edu/research/news/spring24_ajc_merit_research_scholars/)
 
-![RupsaJana]({{ site.url }}{{ site.baseurl }}/images/team/RupsaJana.JPG){: style="height:100px"} <b>Rupsa Jana</b>
+![RupsaJana]({{ site.url }}{{ site.baseurl }}/images/team/RupsaJana.jpg){: style="height:100px"} <b>Rupsa Jana</b>
 
 &nbsp; 
 
