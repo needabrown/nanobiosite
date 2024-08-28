@@ -2,7 +2,7 @@
 layout: member
 category: PI
 title: Needa Brown
-image: NeedaBrown.jpg
+image: NeedaBrown.JPG
 role: Principal Investigator
 permalink: 'team/researcher-NeedaBrown'
 social:
