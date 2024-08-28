@@ -1,0 +1,17 @@
+[
+	{
+	"id": "https://patents.google.com/patent/US20230330229A1/en",
+	"type": "patent app",
+	"title": "Methods for image-guided radiotherapy ",
+	"container-title": "US20230330229A1",
+	"issued": {"date-parts": [["2023", 2]]}
+	},
+
+	{
+	"id": "https://patents.google.com/patent/US20210353779A1/en",
+	"type": "patent app",
+	"title": "Gold nanoparticle-ligand conjugates and methods of use s",
+	"container-title": "US20210353779A1",
+	"issued": {"date-parts": [["2021", 2]]}
+	}
+]

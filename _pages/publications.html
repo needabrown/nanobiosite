@@ -1,12 +1,14 @@
 ---
-title: "Publications & Presentations"
+title: "Publications, Presentations, & Patents"
 layout: default
 excerpt: "RT2 Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
 
-<h1>{{page.title}}</h1>
+<h1><font color="red">N</font>ano<font color="red">B</font>io Publications & Presentations</h1>
+
+&nbsp;  
 
 <!-- Publications -->
 
@@ -67,13 +69,32 @@ permalink: /publications/
             <a data-toggle="collapse" data-parent="#accordion"
                href="#collapse{{forloop.index}}"
                style="color: inherit;">
-            <!-- authors -->
-            {% assign authors = "" | split:"/" %}
-            {% for author in publi.author %}
-                {% assign authors = authors | push: author.family %}
-            {% endfor %}
-            {{ authors | array_to_sentence_string }},
+            <!-- title with link -->
+            "{{ publi.title }}",
 
+            <!-- container -->
+            <b>{{ publi.container-title }}</b>
+
+            <!-- issued date -->
+            ({{ publi.issued.date-parts | jsonify | slice: 3,4 }})
+            </a>
+        </div>
+    {% endfor %}
+    </div>
+</div>
+
+<!-- Patents -->
+
+<h2><a id="patents"></a>Patents/Patent Applications</h2>
+
+<div class="panel-group" id="accordion">
+    <div class="panel panel-default">
+
+    {% for publi in site.data.patents %}
+        <div class="panel-heading">
+            <a data-toggle="collapse" data-parent="#accordion"
+               href="#collapse{{forloop.index}}"
+               style="color: inherit;">
             <!-- title with link -->
             "{{ publi.title }}",
 

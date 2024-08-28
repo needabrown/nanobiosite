@@ -6,10 +6,35 @@ sitemap: false
 permalink: /research/
 ---
 
-# Research
+## <font color="red">N</font>ano<font color="red">B</font>io Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eu turpis egestas pretium aenean. Luctus venenatis lectus magna fringilla urna porttitor. Lorem ipsum dolor sit amet. Pellentesque massa placerat duis ultricies. Commodo viverra maecenas accumsan lacus vel. Mattis molestie a iaculis at erat pellentesque adipiscing commodo. Pellentesque sit amet porttitor eget dolor morbi non. Lorem dolor sed viverra ipsum nunc aliquet bibendum enim. Id aliquet risus feugiat in. Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique senectus. Sapien pellentesque habitant morbi tristique. Sapien eget mi proin sed libero enim. Viverra vitae congue eu consequat ac felis donec.
+&nbsp;  
 
-Mauris vitae ultricies leo integer malesuada. Vulputate ut pharetra sit amet aliquam id diam maecenas. Posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus. Et tortor at risus viverra adipiscing at in. Urna nunc id cursus metus aliquam eleifend. Massa tincidunt dui ut ornare lectus. Rutrum tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras. Enim diam vulputate ut pharetra sit. Facilisi cras fermentum odio eu feugiat pretium. Commodo elit at imperdiet dui accumsan sit amet nulla. Volutpat maecenas volutpat blandit aliquam etiam erat velit scelerisque. Vivamus at augue eget arcu dictum varius duis. Faucibus pulvinar elementum integer enim neque volutpat. Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
+### <b>Thrust1:</b> Design of nanomaterials to circumvent drug delivery barriers.
 
-Cras adipiscing enim eu turpis. Imperdiet massa tincidunt nunc pulvinar sapien et ligula ullamcorper. Sed lectus vestibulum mattis ullamcorper velit. Ut faucibus pulvinar elementum integer. Mattis nunc sed blandit libero volutpat sed cras ornare. Diam volutpat commodo sed egestas egestas fringilla phasellus faucibus. Risus nullam eget felis eget nunc lobortis mattis. In tellus integer feugiat scelerisque varius morbi enim. Eget nunc lobortis mattis aliquam faucibus purus in. Ut pharetra sit amet aliquam id diam maecenas ultricies mi. Augue neque gravida in fermentum et sollicitudin ac orci. Id donec ultrices tincidunt arcu non. Pharetra et ultrices neque ornare aenean euismod. Purus faucibus ornare suspendisse sed. Nibh tellus molestie nunc non blandit massa enim. Non diam phasellus vestibulum lorem sed risus. Vel eros donec ac odio tempor orci dapibus ultrices in. Libero id faucibus nisl tincidunt.
+<p align="center"><img src="{{ site.url }}{{ site.baseurl }}/images/research/Thrust1Overview.png"
+	class="img-fluid"
+	style="max-width: 500px;"/></p>
+
+
+Therapies that enter clinical investigation teeter the line between toxic and effective dose. In an ideal situation, the effective dose is much lower than the toxic dose, however in most clinical trials we discover the inverse is oftentimes true leading to a high failure rate of 90%. There is an unmet clinical need to develop strategies that bridge the gap between preclinical and clinical translation of novel therapies to maximize efficacy and minimize toxicity. Our goal is to expand the arsenal of nanomaterial designs to circumvent these barriers to drug delivery.
+
+&nbsp;  
+
+### <b>Thrust2:</b> Leveraging inherent material-biological interactions for nanomaterial design.
+
+<p align="center"><img src="{{ site.url }}{{ site.baseurl }}/images/research/Thrust2Overview.png"
+	class="img-fluid"
+	style="max-width: 500px;"/></p>
+
+A critical challenge with nanoparticle translation today is the inability to control toxic off-target accumulation. In a recent literature survey, it was found that on average only 0.7% of the administered nanoparticle is delivered to the tumor and this number has largely remained constant over the last decade. The remaining 99.3% are either cleared via the renal system or taken up by macrophages. Fighting the biology is an uphill battle, instead can we design nanoparticles to leverage these biological interactions?
+
+&nbsp;  
+
+### <b>Thrust3:</b> Tools to assess nanomaterial response in biologically relevant systems. 
+
+<p align="center"><img src="{{ site.url }}{{ site.baseurl }}/images/research/Thrust3Overview.jpg"
+	class="img-fluid"
+	style="max-width: 500px;"/></p>
+
+Therapies will only be effective if we are able to prescribe it to the right patient at the right time. Currently, efficacy of treatment is monitored by waiting months to see if a patient responds, however for nonresponsive patients this allows time for metastases and drug resistance to develop. Building tools to assess response early during the treatment period and stratify tumor composition in real time will allow clinicians to better treat patients as well as improve response for our nanotherapeutics.

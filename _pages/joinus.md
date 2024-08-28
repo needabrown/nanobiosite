@@ -6,6 +6,8 @@ sitemap: false
 permalink: /joinus/
 ---
 
+## Join the <font color="red">N</font>ano<font color="red">B</font>io Team!
+
 ### Postdoctoral Fellow
 
 The NanoBio Lab in the Department of Materials Science and Engineering is seeking a Post Doctoral Scholar. This scholar will work on a project that intersects the interdisciplinary fields of nanomedicine and oncology with a focus on how nanomaterials can be engineered for drug delivery of clinically relevant small molecules for DNA damage and immune response activation. As a member of the research team, the scholar will actively pursue research under the supervision of the principal investigator while developing expertise for independent work and promote innovation of ideas. The lab is seeking a talented and motivated scholar who will contribute to the goal of translational research and discovery.
