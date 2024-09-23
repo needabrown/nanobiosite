@@ -12,6 +12,13 @@ permalink: /gallery/
 
 ### <b>2024 Highlights</b>
 
+### Fall 2024 Engineering for Women's Health Conference
+
+![E4WH1]({{ site.url }}{{ site.baseurl }}/images/gallery/E4WH_1.jpg){: style="height:200px"}
+![E4WH2]({{ site.url }}{{ site.baseurl }}/images/gallery/E4WH_2.jpg){: style="height:200px"}
+![E4WH3]({{ site.url }}{{ site.baseurl }}/images/gallery/E4WH_3.jpg){: style="height:200px"}
+![E4WH4]({{ site.url }}{{ site.baseurl }}/images/gallery/E4WH_4.jpg){: style="height:200px"}
+
 ### Spring 2024 Brown-Sridhar Lab Lunch
 
 ![Lunch]({{ site.url }}{{ site.baseurl }}/images/gallery/Spring2024TeamLunch1_04192024.JPG){: style="height:200px"}
