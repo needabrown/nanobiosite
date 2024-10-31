@@ -19,6 +19,8 @@ permalink: /research/
 
 Therapies that enter clinical investigation teeter the line between toxic and effective dose. In an ideal situation, the effective dose is much lower than the toxic dose, however in most clinical trials we discover the inverse is oftentimes true leading to a high failure rate of 90%. There is an unmet clinical need to develop strategies that bridge the gap between preclinical and clinical translation of novel therapies to maximize efficacy and minimize toxicity. Our goal is to expand the arsenal of nanomaterial designs to circumvent these barriers to drug delivery.
 
+Check out this short video about our work: ([CECS UCF Seminar: Nanomaterials for biomedical applications](https://www.youtube.com/watch?v=5MY2A00foQI))
+
 &nbsp;  
 
 ### <b>Thrust2:</b> Leveraging inherent material-biological interactions for nanomaterial design.
