@@ -13,8 +13,8 @@ permalink: /news/
 
 The NanoBio lab attended the annual BMES conference where multidisciplinary engineering teams came together to combine the fields of biology, engineering, medicine, physics, etc to tackle biomedical problems of today! Needa served as Session Chair for the Women's Health - Breast Health track.
 
-![BMES]({{ site.url }}{{ site.baseurl }}/images/news/BMES2024_A.jpg){: style="height:100px"}
-![BMES]({{ site.url }}{{ site.baseurl }}/images/news/BMES2024_B.png){: style="height:100px"}
+![BMES-A]({{ site.url }}{{ site.baseurl }}/images/news/BMES2024_A.jpg){: style="height:100px"}
+![BMES-B]({{ site.url }}{{ site.baseurl }}/images/news/BMES2024_B.png){: style="height:100px"}
 
 &nbsp;  
 
