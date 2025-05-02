@@ -8,6 +8,15 @@ permalink: /news/
 
 ### <font color="red">N</font>ano<font color="red">B</font>io Lab News
 
+### Global Young Academy
+#### March 31, 2025
+
+Needa Brown was inducted into the Global Young Academy (GYA) for the term 2025 - 2030. The vision of the GYA is science for all; science for the future, and its mission to give a voice to young scientists around the world. The GYA was established in 2010 and brings together early stage academics with a commitment to scientific excellence and societal engagement. ([Read more](https://globalyoungacademy.net/welcome-new-members-2025/))
+
+![GYA]({{ site.url }}{{ site.baseurl }}/images/news/GYA_2025.jpg){: style="height:100px"}
+
+&nbsp;
+
 ### Biomedical Engineering Society Conference 2024
 #### October 22 - 26, 2024
 
