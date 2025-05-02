@@ -14,7 +14,7 @@ permalink: /gallery/
 
 ### Spring 2025 Brown Lab Lunch
 
-![Lunch]({{ site.url }}{{ site.baseurl }}/images/gallery/Spring2025TeamLunch_01092025.jpg){: style="height:200px"}
+![Lunch]({{ site.url }}{{ site.baseurl }}/images/gallery/Spring2025Team Lunch_01092025.jpg){: style="height:200px"}
 
 ### <b>2024 Highlights</b>
 
