@@ -1,6 +1,6 @@
 ---
 layout: member
-category: student
+category: alumni
 title: Yulei Xu
 image: YuleiXu.jpg
 role: M.S. Student
