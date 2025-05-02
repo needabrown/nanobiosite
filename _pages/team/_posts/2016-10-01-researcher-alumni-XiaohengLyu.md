@@ -1,6 +1,6 @@
 ---
 layout: member
-category: student
+category: alumni
 title: Xioaheng Lyu
 image: XiaohengLyu.jpg
 role: M.S. Student
