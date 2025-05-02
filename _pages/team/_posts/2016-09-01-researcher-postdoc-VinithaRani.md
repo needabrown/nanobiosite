@@ -9,11 +9,11 @@ social:
     linkedin: https://www.linkedin.com/in/vinitha-rani-00387217a/
     google-scholar: https://scholar.google.com/citations?user=0913_5IAAAAJ&hl=en&oi=ao
 education:
- - 2024 - 2025: Mayo Clinic, USA (Postdoctoral Research Fellow)
- - 2019 - 2024: Yenepoya (Deemed to be University), India (Ph.D. in Allied Health and Basic Sciences)
- - 2018 - 2019: Mangalore University, India (Guest Faculty in the Department of Food Science and Nutrition)
- - 2016 - 2018: Mangalore University, India (M.Sc. in Biosciences)
- - 2013 - 2016: St. Aloysius College, India (B.Sc. in Chemistry, Microbiology, Zoology)
+ - 2024 - 2025:Mayo Clinic, USA (Postdoctoral Research Fellow)
+ - 2019 - 2024:Yenepoya (Deemed to be University), India (Ph.D. in Allied Health and Basic Sciences)
+ - 2018 - 2019:Mangalore University, India (Guest Faculty in the Department of Food Science and Nutrition)
+ - 2016 - 2018:Mangalore University, India (M.Sc. in Biosciences)
+ - 2013 - 2016:St. Aloysius College, India (B.Sc. in Chemistry, Microbiology, Zoology)
 
 ---
 
