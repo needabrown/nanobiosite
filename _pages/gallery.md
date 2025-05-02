@@ -10,6 +10,12 @@ permalink: /gallery/
 
 &nbsp;  
 
+### <b>2025 Highlights</b>
+
+### Spring 2025 Brown Lab Lunch
+
+![Lunch]({{ site.url }}{{ site.baseurl }}/images/gallery/Spring2025TeamLunch_01092025.jpg){: style="height:200px"}
+
 ### <b>2024 Highlights</b>
 
 ### Fall 2024 Engineering for Women's Health Conference
