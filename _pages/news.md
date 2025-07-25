@@ -8,6 +8,15 @@ permalink: /news/
 
 ### <font color="red">N</font>ano<font color="red">B</font>io Lab News
 
+### We are funded - Florida Breast Cancer Foundation!
+#### July 1, 2025
+
+The NanoBio Lab in collaboration with the Peteksi lab was just awarded a Florida Breast Cancer Foundation award for "Cold-to-Hot: Reprogramming the breast tumor microenvironment" with the goal to use a proteomics-based approach to study the impact of age on the triple negative breast cancer microenvironment.
+
+![FBCF]({{ site.url }}{{ site.baseurl }}/images/news/FloridaBreastCancerFoundation.png){: style="height:100px"}
+
+&nbsp;
+
 ### Global Young Academy
 #### March 31, 2025
 
