@@ -11,7 +11,7 @@ permalink: /news/
 ### We are funded - Florida Breast Cancer Foundation!
 #### July 1, 2025
 
-The NanoBio Lab in collaboration with the Peteksi lab was just awarded a Florida Breast Cancer Foundation award for "Cold-to-Hot: Reprogramming the breast tumor microenvironment" with the goal to use a proteomics-based approach to study the impact of age on the triple negative breast cancer microenvironment.
+The NanoBio Lab in collaboration with the Peteksi lab was just awarded a Florida Breast Cancer Foundation award for "Cold-to-Hot: Reprogramming the breast tumor microenvironment" with the goal to use a proteomics-based approach to study the impact of age on the triple negative breast cancer microenvironment. ([Read more](https://mse.ucf.edu/ucf-researchers-to-study-link-between-age-and-breast-cancer-treatment/))
 
 ![FBCF]({{ site.url }}{{ site.baseurl }}/images/news/FloridaBreastCancerFoundation.png){: style="height:100px"}
 
@@ -20,7 +20,11 @@ The NanoBio Lab in collaboration with the Peteksi lab was just awarded a Florida
 ### Global Young Academy
 #### March 31, 2025
 
-Needa Brown was inducted into the Global Young Academy (GYA) for the term 2025 - 2030. The vision of the GYA is science for all; science for the future, and its mission to give a voice to young scientists around the world. The GYA was established in 2010 and brings together early stage academics with a commitment to scientific excellence and societal engagement. ([Read more](https://globalyoungacademy.net/welcome-new-members-2025/))
+Needa Brown was inducted into the Global Young Academy (GYA) for the term 2025 - 2030. The vision of the GYA is science for all; science for the future, and its mission to give a voice to young scientists around the world. The GYA was established in 2010 and brings together early stage academics with a commitment to scientific excellence and societal engagement.
+
+([Read more - GYA](https://globalyoungacademy.net/welcome-new-members-2025/))
+
+([Read more - UCF](https://www.cecs.ucf.edu/needa-brown-selected-to-unleash-student-potential-worldwide/)))
 
 ![GYA]({{ site.url }}{{ site.baseurl }}/images/news/GYA_2025.jpg){: style="height:100px"}
 
