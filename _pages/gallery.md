@@ -12,6 +12,11 @@ permalink: /gallery/
 
 ### <b>2025 Highlights</b>
 
+### Fall 2025 Academy of Science, Engineering, and Medicine of Florida (ASEMFL) Conference
+
+![ASEMFL2025]({{ site.url }}{{ site.baseurl }}/images/gallery/ASEMFL2025_A.jpeg){: style="height:200px"}
+![ASEMFL2025]({{ site.url }}{{ site.baseurl }}/images/gallery/ASEMFL2025_B.jpeg){: style="height:200px"}
+
 ### Spring 2025 Brown Lab Lunch
 
 ![Lunch]({{ site.url }}{{ site.baseurl }}/images/gallery/Spring2025Team Lunch_01092025.jpg){: style="height:200px"}
