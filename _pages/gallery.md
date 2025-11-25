@@ -16,6 +16,7 @@ permalink: /gallery/
 ### NanoBio & CabLab Fall 2025 Holiday Lunch
 
 ![Fall2025Holiday]({{ site.url }}{{ site.baseurl }}/images/gallery/NanoBioFall2025HolidayLunch.jpg){: style="height:200px"}
+![Fall2025Holiday]({{ site.url }}{{ site.baseurl }}/images/gallery/NanoBioFall2025HolidayLunch_B.jpg){: style="height:200px"}
 
 ### Fall 2025 Academy of Science, Engineering, and Medicine of Florida (ASEMFL) Conference
 
